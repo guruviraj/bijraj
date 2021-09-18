@@ -111,10 +111,10 @@ html{
 
 #home .inner-width{
   display: flex;
-  align-items: center;
+  align-items: ;
   justify-content: center;
   height: 100%;
-  text-align: center ;
+  text-align:  ;
 }
 
 #home .content{
