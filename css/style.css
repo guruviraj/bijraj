@@ -102,7 +102,7 @@ html{
 }
 
 #home{
-  height: 100vh;
+  height: 50vh;
   min-height: 500px;
   background: url(../images/bijj.jfif) no-repeat center;
   background-size: cover;
